@@ -41,7 +41,7 @@ Data for 2016 may be incomplete.
 
 In short, the answer is the right combination of genre, platform, and rating depending on which geographical market you are looking to target. Let's break this down. 
 
-**Which geographical market should Ice target?**
+**Which geographical market should online game store Ice target?**
 * Japan is an area of opportunity as they have transitioned from consoles without new releases (Bandai and Sega ones) to more current ones. However, the market's taste is so unique it has a higher risk and it is more cost effective to focus on North America and Europe where there is plenty of chance of overlapping taste.
 * North America makes the most revenue and has less language variation (especially as a good portion of Canada, Ontario, is English-Speaking) which affects marketing content and staff so it seems like the best choice. Before proceeding, I would try to source data and analyze an important metric missed here: **how many video game stores are there in North America vs Europe (particularly online)?**. We may have a case where although there are more sales, there is also much more competition. 
 
